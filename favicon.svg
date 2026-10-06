@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 80 864 864">
+<style>
+  .first  { stroke: #1C1A17 }
+  .second { stroke: #FC3D21 }
+  .cross  { stroke: #8C2C1C }
+  @media (prefers-color-scheme: dark) {
+    .first { stroke: #F4EFE3 }
+    .cross { stroke: #F89682 }
+  }
+</style>
+<path class="first" d="M169.43 535.57L305.20 671.34L572.60 352.66" fill="none" stroke-width="144" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="second" d="M451.40 535.57L587.17 671.34L854.57 352.66" fill="none" stroke-width="146.88" stroke-linecap="round" stroke-linejoin="round"/>
+<mask id="f" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024"><path d="M169.43 535.57L305.20 671.34L572.60 352.66" fill="none" stroke="#fff" stroke-width="144" stroke-linecap="round" stroke-linejoin="round"/></mask>
+<g mask="url(#f)"><path class="cross" d="M451.40 535.57L587.17 671.34L854.57 352.66" fill="none" stroke-width="146.88" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
