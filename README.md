@@ -7,6 +7,7 @@ Edit a file, commit, and it is live in about a minute.
 index.html              → /                      the Retainer landing page
 privacy.html            → /privacy               ← App Store Connect: Privacy Policy URL
 support.html            → /support               ← App Store Connect: Support URL
+terms.html              → /terms                 terms of use; linked from the app's Settings
 404.html                                         shown for any unknown URL
 styles.css                                       every page shares this
 favicon.svg                                      the Retainer mark; follows light/dark itself
