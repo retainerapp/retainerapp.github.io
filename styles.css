@@ -152,6 +152,9 @@ footer.site {
 }
 footer.site .wrap { display: flex; gap: 1.2rem; flex-wrap: wrap; align-items: baseline; }
 footer.site nav { margin-left: auto; display: flex; gap: 1.2rem; flex-wrap: wrap; }
+/* Instagram and Threads wrap as a pair, so neither sits alone on a
+   line of its own on a phone. */
+footer.site nav .follow { display: flex; gap: 1.2rem; }
 
 /* ---- The action card ----------------------------------------- */
 
