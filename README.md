@@ -13,6 +13,8 @@ styles.css                                       every page shares this
 favicon.svg                                      the Retainer mark; follows light/dark itself
 apple-touch-icon.png                             180px app icon, for home-screen bookmarks
 icon-light.svg, icon-dark.svg                    the app icon on the page, light and dark
+sitemap.xml                                      the four pages, for Google and Bing; bump lastmod on edits
+googlefbde0691d7c1825b.html                      Google Search Console's proof we own the site; keep it
 .nojekyll                                        skip Jekyll; we are serving plain HTML
 ```
 
