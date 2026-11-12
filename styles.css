@@ -321,3 +321,9 @@ table, pre { display: block; overflow-x: auto; max-width: 100%; }
   main { padding: 2.5rem 0 3.5rem; }
   section { margin-bottom: 3rem; }
 }
+
+/* The App Store badge: Apple's artwork, untouched, at least 40px tall,
+   with clear space around it. Black on cream, white in dark mode. */
+.store { margin: 0 0 .9rem; }
+.store-badge, .store-badge:hover { display: inline-block; line-height: 0; border-bottom: 0; }
+.store-badge img { height: 50px; width: auto; }
